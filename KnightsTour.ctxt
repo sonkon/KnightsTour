@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=r\ c\ count
+comment1.target=boolean\ tour(int,\ int,\ int)
+comment2.params=a\ b
+comment2.target=int\ compare(int[],\ int[])
+comment3.params=r\ c
+comment3.target=nextto(int,\ int)
+comment4.params=r\ c
+comment4.target=int\ countNext(int,\ int)
+comment5.params=cnt\ r\ c
+comment5.target=boolean\ spaceDetect(int,\ int,\ int)
+comment6.params=
+comment6.target=void\ outputBoard()
+numComments=7
